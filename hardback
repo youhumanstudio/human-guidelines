@@ -26,6 +26,19 @@
             line-height: 1.6;
             text-align: left;
         }
+        .cta-button {
+            display: inline-block;
+            background-color: #000;
+            color: #fff;
+            padding: 12px 20px;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #444;
+        }
     </style>
 </head>
 <body>
@@ -40,8 +53,13 @@
 
     <p>This book (or lack thereof) is a playful jab at the endless self-help and corporate leadership books promising the "right way" to be human, when in reality, your humanity isn't something to be fixed—it’s something to be felt.</p>
 
-    <p>So go ahead, open this book, flip through the invisible pages, and embrace the fact that you’re already the author of your own experience.</p>
+    <p>Truthfully, if there were a book, it wouldn’t be about fixing you. It would be about feeling, healing, and learning to trust your own wisdom. Because being human isn’t a process to perfect—it’s an experience to live.</p>
 
-    <p><strong>Your journey is unique, and only by going inward can you create your own authentic path. No book can write that for you.</strong></p>
+    <p>Whether you're leading a team, leading yourself, or figuring it all out as you go, your journey alone is a book in itself. And while there’s no universal guide, there are thousands of beautiful books created by those who forged their own path. There are systems to help, intuitives to guide you more closely, healers to hold space while you heal your hurts, and communities to make it all easier, more fun, and a richer human experience.</p>
+
+    <p>If you're curious about what this could look like for you, <strong>start with a conversation.</strong></p>
+    
+    <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2PNjY8TTxt5nf1Ah1K80F0ilb31DWU4orMaPKMq23Y9eNM4N4-YjpvuahJIoJAHDvpZYJ2I3WB" class="cta-button">Book a Time</a>
 </body>
 </html>
+>
