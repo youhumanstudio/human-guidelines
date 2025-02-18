@@ -26,18 +26,18 @@
             line-height: 1.6;
             text-align: left;
         }
-        .cta-button {
+        .button {
             display: inline-block;
-            background-color: #000;
-            color: #fff;
-            padding: 12px 20px;
-            text-decoration: none;
-            font-size: 16px;
-            border-radius: 5px;
             margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #333;
+            text-decoration: none;
+            border-radius: 5px;
         }
-        .cta-button:hover {
-            background-color: #444;
+        .button:hover {
+            background-color: #555;
         }
     </style>
 </head>
@@ -45,22 +45,21 @@
     <h1>Order Confirmed!</h1>
     <img src="https://github.com/youhumanstudio/human-guidelines/blob/main/Screenshot%202025-02-13%20at%2015.04.43.png?raw=true" alt="Human Guidelines Book Cover">
     
-    <p><strong>Congratulations!</strong> You are now the proud owner of <em>Human Guidelines: A Book That Doesn’t Exist (Because It Can’t).</em></p>
+    <p><strong>Congratulations!</strong> You now own <em>Human Guidelines: A Book That Doesn’t Exist.</em></p>
 
-    <p>Published by ForgettablePublishing and "written" by Anybody, Everybody, and Nobody, <em>Human Guidelines</em> is the ultimate guide to… well, nothing. Because the truth is, there are no universal rules to being human.</p>
+    <p>If there were a perfect guide to being human, you’d have it in your hands right now. But no book could ever hold something as vast, intricate, and alive as your experience. There’s no single way to do this, only your way, unfolding moment by moment.</p>
 
-    <p>Clicking through to the “real” guide reveals the only wisdom worth knowing: your human experience is yours alone. No one-size-fits-all handbook, no step-by-step manual, just the radical truth that going inward is the only way to create an authentic path.</p>
+    <p>And yet, you’re never truly alone in it. Across time, people have written extraordinary books, built systems to bring clarity, shared wisdom to guide the way. There are those who see what you can’t yet, healers who hold space for the parts of you that ache, and communities that remind you just how human you really are.</p>
 
-    <p>This book (or lack of one) is a playful jab at the endless self-help and corporate leadership books promising the right way to be human, when in reality, your humanity is not something to be fixed. It is something to be felt.</p>
+    <p>But you clicked this link for a reason. Maybe something in you is ready to go deeper, to release what’s been held too tightly, to stop searching for the right way and start feeling your way instead.</p>
 
-    <p>Truthfully, if there were a book, it wouldn’t be about fixing you. It would be about feeling, healing, and learning to trust your own wisdom. Being human is not a process to perfect, it is an experience to live.</p>
+    <p>Real leadership, whether of yourself or others, starts with feeling, not fixing. It’s in understanding the emotions beneath your choices, releasing what’s been carried for too long, and creating space for something new. Your path isn’t a checklist; it’s a living, breathing thing shaped by your own depth and awareness.</p>
 
-    <p>Whether you are leading a team, leading yourself, or figuring it all out as you go, your journey alone is a book in itself. And while there is no universal guide, there are thousands of beautiful books created by those who forged their own path. There are systems to help, intuitives to guide you more closely, healers to hold space while you heal your hurts, and communities to make it all easier, more fun, and a richer human experience.</p>
+    <p><strong>If you’re ready to explore what that means for you, let’s talk.</strong></p>
 
-    <p>If you are curious about what this could look like for you, <strong>start with a conversation.</strong></p>
-    
-    <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2PNjY8TTxt5nf1Ah1K80F0ilb31DWU4orMaPKMq23Y9eNM4N4-YjpvuahJIoJAHDvpZYJ2I3WB" class="cta-button">Book a Time</a>
+    <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2PNjY8TTxt5nf1Ah1K80F0ilb31DWU4orMaPKMq23Y9eNM4N4-YjpvuahJIoJAHDvpZYJ2I3WB" class="button">Book a Time</a>
 
 </body>
 </html>
+
 
